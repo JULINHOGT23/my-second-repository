@@ -4,3 +4,12 @@ software, or computer system can be executed.
 Without programming,
 many of the technological advances
 we have would not exist.
+
+traduccion:
+Gracias a la programación, 
+pueden organizarse las acciones necesarias para que un proyecto, 
+software, o sistema informático pueda ejecutarse. 
+
+Sin la programación, 
+muchos de los avances tecnológicos con los que contamos, 
+no existirían.
